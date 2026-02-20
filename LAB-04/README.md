@@ -138,9 +138,9 @@ Concepts Covered:
 ---
 
 ## 👤 Student Details
-- **Name:** Alok Kumar  
-- **Roll No:** 23425
-- **Reg. No:** 23105128017
+- **Name:** ARCHANA GUPTA  
+- **Roll No:** 23457
+- **Reg. No:** 23105128055
 - **Branch :** CSE 
 - **College:** BPMCE,Madhepura 
 - **Session:** 2023–2027  
