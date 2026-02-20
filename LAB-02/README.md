@@ -176,11 +176,16 @@ Enrollment table resolves the many-to-many relationship between Student and Cour
 
 
 ## Student Details
-Name: ARCHANA GUPTA GUPTA
+Name: ARCHANA GUPTA 
+
 ROLL NO.: 23457
+
 REG.: 23105128055
+
 BRANCH: CSE
+
 COLLEGE: BPMCE, MADHEPURA
+
 SESSION: 2023-2027
 
 ---
