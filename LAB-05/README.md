@@ -37,7 +37,10 @@ INNER JOIN • Multi-table JOIN • Aliases • WHERE • ORDER BY • GROUP BY 
 
 ## 👨‍💻 Author
 Archana gupta
+
 23105128055
+
+
 CSE | BPMCE 🚀
 
 
